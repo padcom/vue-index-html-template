@@ -1,0 +1,13 @@
+{
+  "name": "vue-index-html-template",
+  "version": "1.0.0",
+  "author": "Matthias Hryniszak <padcom@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "live-server ."
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "vue": "^3.4.15"
+  }
+}
